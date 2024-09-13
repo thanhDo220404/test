@@ -1,9 +1,9 @@
 import React from "react";
-import Shop from "./components/Shop";
+import Question from "./components/Question";
 const Home = () => {
   return (
     <div className="container">
-      <Shop />
+      <Question />
     </div>
   );
 };
