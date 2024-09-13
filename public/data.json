@@ -1,0 +1,39 @@
+{
+  "categories": [
+    { "id": "to-yen-tinh-che", "name": "Tổ yến tinh chế" },
+    { "id": "to-yen-tho", "name": "Tổ yến thô" },
+    { "id": "to-yen-chung-san", "name": "Tổ yến chưng sẵn" },
+    { "id": "mon-soup", "name": "Món soup" },
+    { "id": "nuoc-yen", "name": "Nước yến" }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Tổ yến tinh chế loại 1",
+      "price": 2150000,
+      "image": "/images/to-yen-tinh-che-1.jpg",
+      "category": "to-yen-tinh-che"
+    },
+    {
+      "id": 2,
+      "name": "Tổ yến tinh chế loại 2",
+      "price": 2150000,
+      "image": "/images/to-yen-tinh-che-2.jpg",
+      "category": "to-yen-tinh-che"
+    },
+    {
+      "id": 3,
+      "name": "Tổ yến rút lông xuất khẩu",
+      "price": 5300000,
+      "image": "/images/to-yen-xuat-khau.jpg",
+      "category": "to-yen-tinh-che"
+    },
+    {
+      "id": 4,
+      "name": "Tổ yến rút lông thượng",
+      "price": 5200000,
+      "image": "/images/to-yen-rut-long-thuong.jpg",
+      "category": "to-yen-tinh-che"
+    }
+  ]
+}
